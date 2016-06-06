@@ -1,4 +1,4 @@
-# Cylindrical Camera Example for Unity 3D
+# Cylindrical Camera for Unity 3D
 
 A 360 degree cylindrical panorama capture using Unity 3D.
 
